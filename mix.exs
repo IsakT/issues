@@ -6,7 +6,7 @@ defmodule Issues.Mixfile do
      escript: escript_config,
      version: "0.0.1",
      name:    "Issues",
-     source_url: "https://github.com/pragdave/issues",
+     source_url: "https://github.com/IsakT/issues",
      elixir:  "~> 1.2",
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
